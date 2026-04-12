@@ -11,6 +11,12 @@ cd dominance
 npm install          # installs concurrently at root
 cd server && npm install
 cd ../client && npm install
+
+# or to be quick use these commands
+npx concurrently "npm install" "cd server && npm install" "cd client && npm install"
+
+# and then run this
+npx concurrently "cd server && npm run dev" "cd client && npm run dev"
 ```
 
 ### Step 2 — Seed the database
