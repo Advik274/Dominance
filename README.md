@@ -127,29 +127,4 @@ dominance/
 ## 🚨 TROUBLESHOOTING
 
 **Teams can't connect on their phones?**
-→ Make sure laptop and phones are on the same hotspot/WiFi. Use your laptop's local IP (not localhost).
-
-**db.json not found error?**
-→ Run `node data/seed.js` first.
-
-**Socket not connecting?**
-→ Check that server is running on port 4000. Check browser console for errors.
-
-**Battery not draining?**
-→ Battery drain only runs during Phase 2. Make sure you advanced to Phase 2 from admin panel.
-
-**Zone capture not working?**
-→ Make sure the team is not eliminated and the phase is 'phase2'.
-
----
-
-## ⚠️ FALLBACKS (if something breaks)
-
-- **Phase 1 broken** → Use a Google Form with the questions, enter scores manually via admin panel
-- **Phase 2 map broken** → Teams still capture zones, Zone Marshals report to admin who manually adjusts battery via admin panel
-- **Phase 3 submission broken** → Teams share their links in a WhatsApp group, admin enters scores manually
-- **Wi-Fi dies** → Run questions verbally, use printed backup
-
----
-
-Good luck. Dominate. 🏆
+→ Make sure laptop and phones are on the same hotspot/WiFi. Use your laptop's IPv4 address from `ipconfig`/`ifconfig` in the Team Join URL instead of `[YOUR_IP]`.
