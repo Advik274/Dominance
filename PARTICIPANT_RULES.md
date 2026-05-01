@@ -120,68 +120,20 @@ Only the top teams make it here. Now prove you can build.
 ### What to Submit
 - **Deployment URL** — a live link (Vercel, Netlify, Railway, etc.)
 - **GitHub URL** — your code repository
-- **Notes** — features built, tech stack, anything judges should know
+- **Notes** — features, tech stack, and any challenges faced
 
-You can resubmit as many times as you want. **Last submission before timer ends counts.**
-
-### How You'll Be Judged
-| Criteria | Weight | What Judges Look For |
-|----------|--------|---------------------|
-| UI Design | 30% | Clean, intuitive, responsive |
-| Functionality | 40% | Features work, no crashes, handles edge cases |
-| Problem Fit | 30% | Did you actually solve the given problem? |
-
-**Maximum score: 100 points**
-
-### Rules
-- Any tech stack is allowed (React, Django, Flask, Node, PHP, whatever)
-- Internet access is allowed for documentation
-- No using pre-made full project templates — original work only
-- All team members must contribute
-- Judges' decisions are final
+### Judging Criteria
+- **Functionality** (Does it work?)
+- **Creativity** (Is it innovative?)
+- **Code Quality** (Is it clean and well-structured?)
+- **Presentation** (Can you explain it clearly?)
 
 ---
 
-## RESULTS REVEAL
+## FINAL NOTES
 
-After judging, the results are revealed **dramatically** — one team at a time, from last place to first place. This happens live on the projector AND on your screen.
+- **No cheating.** Plagiarism or unauthorized help results in immediate disqualification.
+- **Stay hydrated.** Bring water and snacks — this is a marathon.
+- **Have fun!** This is a competition, but remember: learning is the real win.
 
-When the winner is announced: **confetti.** 🎊
-
----
-
-## GENERAL RULES
-
-1. **No cheating.** Sharing answers between teams = immediate disqualification.
-2. **Respect the zones.** Don't crowd the zone area with more members than necessary.
-3. **Keep it fair.** When setting defense problems, write clear, solvable challenges — no trick questions designed to be impossible.
-4. **One team = one attempt per zone at a time.** Don't send half your team while the other half attempts elsewhere.
-5. **Device issues are your responsibility.** Charge your phone. Use your own data if hotspot is slow.
-6. **Admin is final.** No arguments with the admin's decisions.
-7. **Have fun.** This is a competition, but it's also a party. Enjoy it.
-
----
-
-## QUICK REFERENCE
-
-```
-Team URL:   http://[EVENT_URL]/
-Passcode:   Given to your team leader at registration
-Battery:    Starts 100%, drains 2%/min, capture = +20%, attempt = -5%
-Phase 2:    Physically visit zones, type answers on zone laptop
-Phase 3:    Submit deployment + GitHub link before timer ends
-```
-
----
-
-## PRIZES
-
-🥇 **1st Place** — [To be announced]
-🥈 **2nd Place** — [To be announced]
-🥉 **3rd Place** — [To be announced]
-
----
-
-**Questions?** Ask any coordinator wearing the [EVENT VOLUNTEER] badge.
-
-*Organised by Reboot Club × CSI Chapter × NCC | Ebulliance Tech Fest*
+**Good luck, and may the best team DOMINATE!**
